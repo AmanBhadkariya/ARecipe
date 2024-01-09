@@ -1,0 +1,5 @@
+.hero-section{
+    height: 25vh;
+    transition: transform 1s ease-in-out;
+    
+}
