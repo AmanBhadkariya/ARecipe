@@ -2,7 +2,7 @@ const url = 'https://food-recipes-with-images.p.rapidapi.com/?q=';
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': 'f7be1438a8msh3610c888918e030p1f325djsn88b329fe550c',
+		'X-RapidAPI-Key': 'ENTER-YOUR-KEY-HERE',
 		'X-RapidAPI-Host': 'food-recipes-with-images.p.rapidapi.com'
 	}
 };
